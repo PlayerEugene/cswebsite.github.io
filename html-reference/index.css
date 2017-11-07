@@ -8,20 +8,6 @@ table, th, td {
     background-color: lightblue;
 }
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-li a:hover {
-    background-color: #111;
-}
-    .active {
-    background-color: #4CAF50;
-}
-
 h1 {
     border: 2px solid green;
     border-radius: 5px;
@@ -30,4 +16,8 @@ h1 {
 
 h2 {
     font-family: Georgia, serif;
+}
+
+.list {
+    background-color: none;
 }
