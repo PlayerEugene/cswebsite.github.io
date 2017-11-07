@@ -8,8 +8,16 @@ table, th, td {
     background-color: lightblue;
 }
 
+ul {
+    background: white;
+}
+
 h1 {
     border: 2px solid green;
     border-radius: 5px;
     text-align: center;
+}
+
+h2 {
+    font-family: Georgia, serif;
 }
