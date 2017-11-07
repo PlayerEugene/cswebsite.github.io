@@ -6,3 +6,8 @@ table, th, td {
     border: 1px solid black;
 }
 
+h1 {
+    border: 2px solid green;
+    border-radius: 5px;
+    text-align: center;
+}
