@@ -21,3 +21,9 @@ h2 {
 .list {
     background-color: white;
 }
+
+.center {
+    text-align: center;
+    border: 2px solid green;
+    border-radius: 5px;
+}
