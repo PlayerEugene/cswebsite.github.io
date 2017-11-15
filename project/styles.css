@@ -16,3 +16,8 @@ hr.style6 {
 	border-top: 2px dotted #8c8b8b;
 	color:black;
 }
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
