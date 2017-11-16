@@ -18,6 +18,12 @@ hr.style6 {
 }
 
 ul {
-    background: #3399ff;
+    background: #D9853B;
     padding: 20px;
+}
+
+ul li {
+    background: LightSalmon;
+    padding: 5px;
+    margin-left: 35px;
 }
