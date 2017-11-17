@@ -34,8 +34,3 @@ th, td {
 tbody tr:nth-child(odd) {
   background: #eee;
 }
-
-.video iframe {
-	display: block;
-	margin: 0 auto;
-}
