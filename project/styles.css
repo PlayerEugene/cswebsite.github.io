@@ -34,7 +34,3 @@ th, td {
 tbody tr:nth-child(odd) {
   background: #eee;
 }
-
-img  {
-    float: right;
-}
